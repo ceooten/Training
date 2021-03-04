@@ -1,0 +1,25 @@
+.ResultsGrid {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.ResultsGrid table{
+    width: 100%;
+    margin: 10px auto;
+    border: 1px solid black;
+    box-shadow: 5px 5px 2px rgba(0, 0, 94, 0.137);
+    border-collapse: collapse;
+}
+
+.ResultsGrid table thead tr th{
+    line-height: 30px;
+    height: 30px;
+    font-weight: bold;
+    background-color: #01497c;
+    color: white;
+    font-size: larger;
+}
+
+.ResultsGrid table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

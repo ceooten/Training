@@ -1,0 +1,21 @@
+[debug] [2021-02-24T16:58:02.501Z] ----------------------------------------------------------------------
+[debug] [2021-02-24T16:58:02.502Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\caleb.ooten\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-02-24T16:58:02.503Z] CLI Version:   9.5.0
+[debug] [2021-02-24T16:58:02.503Z] Platform:      win32
+[debug] [2021-02-24T16:58:02.503Z] Node Version:  v15.8.0
+[debug] [2021-02-24T16:58:02.508Z] Time:          Wed Feb 24 2021 11:58:02 GMT-0500 (Eastern Standard Time)
+[debug] [2021-02-24T16:58:02.508Z] ----------------------------------------------------------------------
+[debug] [2021-02-24T16:58:02.509Z] 
+[debug] [2021-02-24T16:58:02.523Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-02-24T16:58:02.526Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\caleb.ooten\Documents\ReactApps\body-age-calculator
+

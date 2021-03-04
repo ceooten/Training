@@ -1,0 +1,22 @@
+.ProgressBar progress{
+   width: 80%;
+   height: 30px;
+   -webkit-appearance: none;
+   appearance: none;
+   background-color: ButtonHighlight;
+   border-radius: 12px;
+   position: relative;
+
+}
+
+.ProgressBar progress::-webkit-progress-value {
+    background-image: linear-gradient(to right, #01497c , #61a5c2);
+    width: 300pt;
+    height: 30px;
+    border-radius: 12px;
+}
+
+.ProgressBar progress::-webkit-progress-bar {
+   background-color: ButtonHighlight;
+   border-radius: 12px;
+}
